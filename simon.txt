@@ -1,0 +1,3 @@
+foo på rad 0
+hej på rad 1
+Hallådu på rad 2
